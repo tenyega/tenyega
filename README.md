@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I'm passionate about software development and enjoy working on a variety of projects. Here's a bit about me:
 
 - 🔭 **Current Projects:**
-  - [Spring boot]((https://github.com/tenyega/TP-SpringBoot)): A Project for a hall reservation system using Java EE and Spring boot framework. 
+  - [Spring boot](https://github.com/tenyega/TP-SpringBoot): A Project for a hall reservation system using Java EE and Spring boot framework. 
   - [hotel-reservation](https://github.com/tenyega/hotel-reservation): A JavaScript-based hotel reservation system.
   - [react-express](https://github.com/tenyega/react-express): A TypeScript project combining React and Express.
 
