@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there, I'm Dolma ! 👋
 
-<!--
-**tenyega/tenyega** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm passionate about software development and enjoy working on a variety of projects. Here's a bit about me:
 
-Here are some ideas to get you started:
+- 🔭 **Current Projects:**
+  - [Spring boot]((https://github.com/tenyega/TP-SpringBoot)): A Project for a hall reservation system using Java EE and Spring boot framework. 
+  - [hotel-reservation](https://github.com/tenyega/hotel-reservation): A JavaScript-based hotel reservation system.
+  - [react-express](https://github.com/tenyega/react-express): A TypeScript project combining React and Express.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 **Learning and Development:**
+  - Continuously exploring new technologies and frameworks to enhance my skills.
+  - Currently delving deeper into full-stack development with a focus on modern web applications.
+
+- 💬 **Let's Connect:**
+  - Feel free to reach out if you'd like to collaborate on a project or discuss software development in general.
+
+- ⚡ **Fun Fact:**
+  - I believe that a busy mind needs some rest for a while, so I may be slow to respond at times. But your queries will never be unanswered for sure .....
+
+Thank you for visiting my profile!
