@@ -3,6 +3,7 @@
 Welcome to my GitHub profile! I'm passionate about software development and enjoy working on a variety of projects. Here's a bit about me:
 
 - 🔭 **Current Projects:**
+  - [Experiment with Python] (https://github.com/tenyega/first-ever-python-projet)  My first ever experiment with Python. Interesting and a must try in my bucket list. 
   - [Project IoT](https://github.com/tenyega/DHT11OnEsp32): Project using ESP32 and Andruino IDE - application web for temperature and humidity reading. 
   - [Flutter and Dart combo](https://github.com/tenyega/Fetching-RSS-Feed-from-franceblue.fr.git): A mobile project using flutter framework and dart language. 
   - [Spring boot](https://github.com/tenyega/TP-SpringBoot): A Project for a hall reservation system using Java EE and Spring boot framework. 
